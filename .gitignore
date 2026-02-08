@@ -1,0 +1,23 @@
+# Logs
+*.log
+src/agartha gateopener/bot_debug.log
+
+# Data and Databases
+data/
+faiss_db/
+backups/
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+venv/
+env/
