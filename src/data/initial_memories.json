@@ -1,0 +1,47 @@
+[
+    {
+        "content": "Пользователь: Архитектор (Underdog), 15 лет, Семей. Стиль обучения: 30% теории, 70% практики. Цель: Фукуока.",
+        "tags": [
+            "identity",
+            "profile"
+        ],
+        "source": "system_init",
+        "importance": 10
+    },
+    {
+        "content": "Стек проекта Trinity: Python (FastAPI) для логики, Rust для скорости, Qdrant для памяти, Gemini 2.5 Pro для мультимодальности.",
+        "tags": [
+            "stack",
+            "tech"
+        ],
+        "source": "system_init",
+        "importance": 9
+    },
+    {
+        "content": "Архитектура Агентов: Haq AI (Судья), Liar's Requiem (Память), Mahoraga (Исполнитель/Кодер).",
+        "tags": [
+            "architecture",
+            "trinity"
+        ],
+        "source": "system_init",
+        "importance": 8
+    },
+    {
+        "content": "Правила кодинга: Clean Architecture. Никакого спагетти-кода. Сначала Схема, потом База, потом Логика.",
+        "tags": [
+            "rules",
+            "coding_standards"
+        ],
+        "source": "system_init",
+        "importance": 7
+    },
+    {
+        "content": "Ментор Goblini: Вдохновитель идеи Context Cards. Его проекты утеряны, мы восстанавливаем их суть.",
+        "tags": [
+            "history",
+            "mentor"
+        ],
+        "source": "system_init",
+        "importance": 6
+    }
+]
